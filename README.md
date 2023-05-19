@@ -40,13 +40,13 @@ There are 2 different ways to run this automation: on request and scheduled.
 
 1. Open Windows Task Scheduler
 2. On the right sidebar, click "Create Task"
-   ![](assets/20230519_091747_image.png)
+![](assets/20230519_091747_image.png)
 3. Under the "General" tab, select a name for the automation
 4. Under the "Triggers" tab, click "New" and select the frequency in which you want this to run.
 5. Under the "Actions" tab, click "New"
 6. In the "Program/script" field, browse for the file in this directory called "batch_script.bat"
 7. In the "Start in (optional) field, enter the directory location for the "batch_script.bat" file, but do not enter the file name.
-   ![](assets/20230519_092211_image.png)
+![](assets/20230519_092211_image.png)
 8. Under the "Conditions" tab, uncheck the box for "Start the task only if the computer is on AC power", which will allow the script to run if you are disconnected from your dock/power supply.
 9. Press "OK" to save the chages.
 10. When your designated scheduled time occurs, a command line window will automatically open and prompt for your inputs.
