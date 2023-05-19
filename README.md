@@ -52,6 +52,7 @@ There are 2 different ways to run this automation: on request and scheduled.
 9. Press "OK" to save the chages.
 10. When your designated scheduled time occurs, a command line window will automatically open and prompt for your inputs.
     ![](assets/20230519_092955_image.png)
+11. A loading bar will show you the progress of the action.
 
-12. A loading bar will show you the progress of the action.
+![](assets/20230519_093343_image.png)
 
